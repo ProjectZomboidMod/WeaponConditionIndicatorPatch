@@ -1,0 +1,8 @@
+version=1
+id=3348756758
+title=Bandits / Weapon Condition Indicator Compatibility Patch
+description=[h2]Load this mod AFTER Weapon Condition Indicator.[/h2]
+description=
+description=This is a [b]temporary[/b] solution to eliminate the errors when using [url=https://steamcommunity.com/workshop/filedetails/?id=3268487204]Bandits NPC[/url] and [url=https://steamcommunity.com/workshop/filedetails/?id=2619072426]Weapon Condition Indicator[/url] together.
+tags=
+visibility=public
